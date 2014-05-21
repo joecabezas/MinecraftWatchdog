@@ -11,7 +11,7 @@ Sintaxis
 Dependencies
 ------------
 
-If you want to send pushover notifications you have to clone [pushover.sh project](https://github.com/joecabezas/pushover.sh pushover.sh) and then give
+If you want to send pushover notifications you have to clone [pushover.sh project](https://github.com/joecabezas/pushover.sh "pushover.sh") and then give
 the pushover.sh file location using the -p option.
 
 Installation
