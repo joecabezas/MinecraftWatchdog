@@ -32,8 +32,8 @@ See also
 
 Check this awesome minecraft server manager (MSM):
 "A single init script which makes running multiple Minecraft/Bukkit servers easier for us admins."
-[minecraft-server-manager](https://github.com/marcuswhybrow/minecraft-server-manager)
 
+https://github.com/marcuswhybrow/minecraft-server-manager
 
 Donations?
 --------
