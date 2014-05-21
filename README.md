@@ -11,7 +11,7 @@ Sintaxis
 Dependencies
 ------------
 
-If you want to send pushover notifications you have to clone [pushover.sh project][https://github.com/joecabezas/pushover.sh pushover.sh] and then give
+If you want to send pushover notifications you have to clone [pushover.sh project](https://github.com/joecabezas/pushover.sh pushover.sh) and then give
 the pushover.sh file location using the -p option.
 
 Installation
@@ -32,7 +32,7 @@ See also
 
 Check this awesome minecraft server manager (MSM):
 "A single init script which makes running multiple Minecraft/Bukkit servers easier for us admins."
-[minecraft-server-manager][https://github.com/marcuswhybrow/minecraft-server-manager]
+[minecraft-server-manager](https://github.com/marcuswhybrow/minecraft-server-manager)
 
 
 Donations?
