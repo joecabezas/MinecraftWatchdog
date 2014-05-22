@@ -25,7 +25,7 @@ function main
 	tail -Fn0 "$LOGFILE" | \
 	#cat "$LOGFILE" | \
 	while read line ; do
-		
+
 		#echo "-----------"
 		#echo "$line"
 		#echo "+++++++++++"
@@ -51,7 +51,7 @@ function UserConnectedAction
 	#DEBUG
 	#echo "$MESSAGE"
 	#exit
-	
+
 	./$PUSHOVERFILE -t "$DEFAULT_TITLE" -m "$MESSAGE" -p 0
 }
 
