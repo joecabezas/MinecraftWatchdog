@@ -49,10 +49,12 @@ function UserConnectedAction
 	MESSAGE="[$1] connected!"
 
 	#DEBUG
-	#echo "$MESSAGE"
+	echo "Pushing: $MESSAGE"
 	#exit
 
-	./$PUSHOVERFILE -t "$DEFAULT_TITLE" -m "$MESSAGE" -p 0
+	. $PUSHOVERFILE -t "$DEFAULT_TITLE" -m "$MESSAGE" -p 0
+
+	echo "\n"
 }
 
 #MAIN EXCECUTION
